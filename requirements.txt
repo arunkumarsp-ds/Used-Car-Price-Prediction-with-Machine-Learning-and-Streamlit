@@ -6,4 +6,5 @@ seaborn==0.12.2
 streamlit==1.37.1
 joblib==1.1.1
 scikit-learn==1.2.1
+xgboost==2.1.1
 
