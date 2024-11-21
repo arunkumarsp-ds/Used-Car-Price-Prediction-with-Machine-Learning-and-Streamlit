@@ -1,5 +1,12 @@
-# Used-Car-Price-Prediction-App-with-EDA-using-Streamlit-and-Python 
-[Used-Car-Price-Prediction-App_link](https://used-car-price-prediction-app-with-python.streamlit.app/)
+# **Used Car Price Prediction with Machine Learning (Regression) and Streamlit App:**
+
+- [**Used Car Price Prediction Streamlit App**](https://used-car-price-prediction-app-with-python.streamlit.app/) - Interact with the model in real-time.  
+- [**Notebook**](https://github.com/arunkumarsp-ds/Used-Car-Price-Prediction-App-with-EDA-using-Streamlit-and-Python?tab=readme-ov-file) - Explore the code and EDA insights.
+
+### **Note**
+- If the app is asleep, click **"Yes, get this app back up!"**, and it will wake up within a few seconds.
+
+- In case the linked files(jupyter notebook) cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
 
 
 ## Introduction
@@ -16,4 +23,5 @@ The primary goal is to assist potential buyers and sellers in making informed de
 - Conducted **EDA** and **feature engineering** for model building, with insights documented in the notebook.
 - Performed **hyperparameter tuning** using `RandomizedSearchCV` to optimize model performance.
 - Developed a basic **Streamlit app** for real-time price predictions.
+
 
