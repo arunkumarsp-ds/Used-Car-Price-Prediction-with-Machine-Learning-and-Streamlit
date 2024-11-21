@@ -6,7 +6,7 @@
 ### **Note**
 - If the app is asleep, click **"Yes, get this app back up!"**, and it will wake up within a few seconds.
 
-- In case the linked files(jupyter notebook) cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
+- In case the files cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
 
 
 ## Introduction
