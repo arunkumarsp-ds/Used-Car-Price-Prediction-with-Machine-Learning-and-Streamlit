@@ -20,7 +20,7 @@ The primary goal is to assist potential buyers and sellers in making informed de
 
 ## Key Highlights
 
-- Built a model using **Linear Regression**, **Decision Tree**, **Random Forest**, and **XGBoost**, improving the score from `-2.51e+26` to approximately **75% accuracy** with XGBoost.
+- Built a model using Linear Regression, Decision Tree, Random Forest, AdaBoost, GradientBoost, and XGBoost, improving the score from **56% to 92% accuracy** with Hyperparameter-Tuned XGBoost.
 - Conducted **EDA** and **feature engineering** for model building, with insights documented in the notebook.
 - Performed **hyperparameter tuning** using `RandomizedSearchCV` to optimize model performance.
 - Developed a basic **Streamlit app** for real-time price predictions.
