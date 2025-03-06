@@ -2,7 +2,7 @@
 
 ## 🔗 PROJECT LINKS
 - 💻 [**Used Car Price Prediction Streamlit App**](https://used-car-price-prediction-with-machine-learning-and.streamlit.app/) - Interact with the model in real-time.  
-- 💻 [**Notebook**](https://github.com/arunkumarsp-ds/Used-Car-Price-Prediction-with-Machine-Learning-and-Streamlit/blob/main/used-car-price-prediction-and-eda.ipynb) -Explore the project
+- 💻 [**Notebook**](https://github.com/arunkumarsp-ds/Used-Car-Price-Prediction-with-Machine-Learning-and-Streamlit/blob/main/used-car-price-prediction-eda.ipynb) -Explore the project
 
 ### **Note**
 - If the app is asleep, click **"Yes, get this app back up!"**, and it will wake up within a few seconds.
